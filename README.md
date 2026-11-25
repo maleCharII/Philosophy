@@ -1,0 +1,2 @@
+# Philosophy
+philosophy related scripts
